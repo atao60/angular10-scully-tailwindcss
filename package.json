@@ -1,6 +1,6 @@
 {
   "name": "angular10-scully-tailwindcss",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -30,6 +30,28 @@
     "@types/node": "^12.11.1",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
-    "typescript": "~3.9.5"
+    "typescript": ">=3.9.2 <4.0.0"
+  },
+  "license": "MIT",
+  "author": "Pierre Raoul <atao60.dev@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atao60/angular10-scully-tailwindcss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atao60/angular10-scully-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/atao60/angular10-scully-tailwindcss#readme",
+  "keywords": [
+    "blog",
+    "scully",
+    "angular",
+    "tailwind",
+    "tailwindcss"
+  ],
+  "description": "A blog written with Scully and TailwindCSS",
+  "engines": {
+    "node": ">=10.13.0",
+    "npm": ">=6.11.0"
   }
 }
